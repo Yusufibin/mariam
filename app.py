@@ -45,6 +45,5 @@ def generate_prompt(animal):
     
 
 
-if __name__ == "__main__": 
-
-  app.run(host='41.158.213.155')
+if __name__ == "__main__":
+    app.run()
